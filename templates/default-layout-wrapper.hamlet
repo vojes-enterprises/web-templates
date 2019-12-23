@@ -12,5 +12,3 @@ $newline never
     ^{pageHead pc}
   <body>
     ^{pageBody pc}
-    
-
