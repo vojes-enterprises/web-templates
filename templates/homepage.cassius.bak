@@ -1,0 +1,186 @@
+*
+  box-sizing: border-box
+
+
+.row::after
+  content: ""
+  clear: both
+  display: table
+
+
+[class*="col-"]
+  float: left
+  padding: 15px
+
+
+/* For mobile phones: */
+[class*="col-"]
+  width: 100%
+  
+  
+
+@media only screen and (max-width: 600px)
+  /* For phones: */
+  .col-s-1width: 8.33%
+  .col-s-2width: 16.66%
+  .col-s-3width: 25%
+  .col-s-4width: 33.33%
+  .col-s-5width: 41.66%
+  .col-s-6width: 50%
+  .col-s-7width: 58.33%
+  .col-s-8width: 66.66%
+  .col-s-9width: 75%
+  .col-s-10width: 83.33%
+  .col-s-11width: 91.66%
+  .col-s-12width: 100%
+
+  #next-section
+    padding-bottom: 5%
+  
+
+  .header1-3
+    text-align: center
+    font-family: 'Lexend Deca', sans-serif
+  
+
+  .para
+    font-family: 'Viga', sans-serif
+  
+
+  .image
+    display: block
+    margin-left: auto
+    margin-right: auto
+    width: 50%
+  
+
+
+@media only screen and (min-width: 600px)
+  /* For tablets: */
+  .col-s-1width: 8.33%
+  .col-s-2width: 16.66%
+  .col-s-3width: 25%
+  .col-s-4width: 33.33%
+  .col-s-5width: 41.66%
+  .col-s-6width: 50%
+  .col-s-7width: 58.33%
+  .col-s-8width: 66.66%
+  .col-s-9width: 75%
+  .col-s-10width: 83.33%
+  .col-s-11width: 91.66%
+  .col-s-12width: 100%
+
+  #next-section
+    padding-bottom: 5%
+  
+
+  .header1-3
+    text-align: center
+    font-family: 'Lexend Deca', sans-serif
+  
+
+  .para
+    font-family: 'Viga', sans-serif
+  
+
+  .image
+    display: block
+    margin-left: auto
+    margin-right: auto
+    width: 50%
+  
+
+
+@media only screen and (min-width: 992px)
+  /* For desktop: */
+  .col-1width: 8.33%
+  .col-2width: 16.66%
+  .col-3width: 25%
+  .col-4width: 33.33%
+  .col-5width: 41.66%
+  .col-6width: 50%
+  .col-7width: 58.33%
+  .col-8width: 66.66%
+  .col-9width: 75%
+  .col-10width: 83.33%
+  .col-11width: 91.66%
+  .col-12width: 100%
+
+  #next-section
+    padding-bottom: 5%
+  
+
+  .header1-3
+    text-align: center
+    font-family: 'Lexend Deca', sans-serif
+  
+
+  .para
+    text-align: center
+    font-family: 'Viga', sans-serif
+  
+
+  #WhatWeDo
+    text-align: left
+    margin-top: 4%
+  
+
+  #image-right
+    float: right
+  
+
+  #image-left
+    float: left
+  
+
+  .image
+    padding-left: 10%
+    padding-right: 10%
+  
+
+
+/* Body and Container margins at 0% make the website flush */
+
+body
+  margin: 0%
+
+
+.container
+  margin-top: 0%
+
+
+/* Different styles for sectioned divs to go with col-* */
+
+.header
+  background-color: #000
+  color: #ffffff
+  text-align: center
+
+
+.section-light
+  background-color: #fff
+  color: #000
+  padding-left: 10%
+  padding-right: 10%
+
+
+.section-light-WhoWeAre
+  background-color: #fff
+  color: #000
+  padding-left: 20%
+  padding-right: 20%
+  padding-top: 3%
+
+
+.section-dark
+  background-color: #000
+  color: #fff
+  padding-left: 10%
+  padding-right: 10%
+
+
+.section-dark-WhoWeAre
+  background-color: #000
+  color: #fff
+  padding-left: 20%
+  padding-right: 20%

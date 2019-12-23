@@ -1,1 +1,43 @@
-
+<div .header>
+    <img src="https://avatars0.githubusercontent.com/u/53578405?s=400&u=6db8d0d96a592c76ea80457d1738898c1adbac6d&v=4">
+    
+<div .row>
+    <div .col-12 .col-s-12 .section-dark-WhoWeAre>
+        <h1 .header1-3>
+            We are Vojes Enterprises
+            
+    <div .col-12 .col-s-12 .section-light-WhoWeAre>
+        <img .image #image-left src="https://camo.githubusercontent.com/95f3364b5c1b1e9cd14004838a292cc697a8420d/68747470733a2f2f692e696d6775722e636f6d2f4263424a4f57712e706e673f31">
+        <p .para #WhatWeDo>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quam elit, maximus at maximus non, pellentesque in lectus. Donec eu malesuada tellus, eu blandit enim. Integer lacinia et dolor sodales rutrum. Nulla finibus consectetur magna, a congue dui dictum vel. Praesent elit ex, condimentum at euismod a, vestibulum vel sem. Nullam mattis ipsum vitae odio bibendum accumsan.
+            
+    <div .col-12 .col-s-12 .section-light-WhoWeAre>
+        <img .image #image-right src="https://camo.githubusercontent.com/95f3364b5c1b1e9cd14004838a292cc697a8420d/68747470733a2f2f692e696d6775722e636f6d2f4263424a4f57712e706e673f31">
+        <p .para #WhatWeDo>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quam elit, maximus at maximus non, pellentesque in lectus. Donec eu malesuada tellus, eu blandit enim. Integer lacinia et dolor sodales rutrum. Nulla finibus consectetur magna, a congue dui dictum vel. Praesent elit ex, condimentum at euismod a, vestibulum vel sem. Nullam mattis ipsum vitae odio bibendum accumsan.
+            
+    <div .col-12 .col-s-12 .section-light-WhoWeAre #next-section>
+        <img .image #image-left src="https://camo.githubusercontent.com/95f3364b5c1b1e9cd14004838a292cc697a8420d/68747470733a2f2f692e696d6775722e636f6d2f4263424a4f57712e706e673f31">
+        <p .para #WhatWeDo>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quam elit, maximus at maximus non, pellentesque in lectus. Donec eu malesuada tellus, eu blandit enim. Integer lacinia et dolor sodales rutrum. Nulla finibus consectetur magna, a congue dui dictum vel. Praesent elit ex, condimentum at euismod a, vestibulum vel sem. Nullam mattis ipsum vitae odio bibendum accumsan.
+            
+    <div .col-12 .col-s-12 .section-dark>
+        <div .col-6 .col-s-12 .section-dark>
+            <img .image src="https://camo.githubusercontent.com/95f3364b5c1b1e9cd14004838a292cc697a8420d/68747470733a2f2f692e696d6775722e636f6d2f4263424a4f57712e706e673f31">
+            <h1 .header1-3>
+                LineageOS
+            <p .para>
+                A really cool and awesome explaination for this project
+            
+        <div .col-6 .col-s-12 .section-dark>
+            <img .image src="https://camo.githubusercontent.com/95f3364b5c1b1e9cd14004838a292cc697a8420d/68747470733a2f2f692e696d6775722e636f6d2f4263424a4f57712e706e673f31">
+            <h1 .header1-3>
+                Nutrition Calc
+            <p .para>
+                A really cool and awesome explaination for this project
+                
+    <div .col-12 .col-s-12 .section-light>
+        <h1 .header1-3>
+            Coming Soon
+        <p .para>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quam elit, maximus at maximus non, pellentesque in lectus. Donec eu malesuada tellus, eu blandit enim. Integer lacinia et dolor sodales rutrum. Nulla finibus consectetur magna, a congue dui dictum vel. Praesent elit ex, condimentum at euismod a, vestibulum vel sem. Nullam mattis ipsum vitae odio bibendum accumsan.
