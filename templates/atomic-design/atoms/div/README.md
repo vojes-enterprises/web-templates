@@ -2,7 +2,7 @@
 
 This directory houses Vojes Enterprises `div` Atom. This directory works a little differently as there's only one `div` Atom. This README aims to provide information towards the different classes that can be applied to our `div` Atom. These classes all tie into making Molecules with our Atoms and can be found within the Molecules directory
 
-VE uses classes at a universial level. All classes should be used that need to be applied to multiple `div` elements within a webpage. If a section of a VE website requires specialized styling, an ID is to be created independent to that section alone. While IDs for the `div` Atom is not discussed here, each Molecule containing an ID will have the appropriate documentation within the Molcules directory.
+VE uses classes at a universial level. All classes should be used that need to be applied to multiple `div` elements within a webpage. If a section of a VE website requires specialized styling, an ID is to be created independent to that section alone. **While IDs for the `div` Atom is not discussed here, each Molecule containing an ID will have the appropriate documentation within the Molcules directory.**
 
 NOTE: Classes used for `div` that are not listed here should have a pull request submitted to add it to this documentation, as well as adding your `div` Molecule to it's respective directory along with the documentation of that Molecule and any IDs being used.
 
