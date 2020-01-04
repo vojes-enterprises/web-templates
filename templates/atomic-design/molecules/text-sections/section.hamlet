@@ -1,4 +1,4 @@
 <div .row>
-    <div .col-s-12 .section-light>
+    <div .col-s-12 .section-light/dark>
         <p .para>
             Lorem ipsum
